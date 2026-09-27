@@ -1,0 +1,79 @@
+{
+  "metrics": {
+    "exact_match": 0.017,
+    "object_count": 0.49,
+    "size1": 0.5025,
+    "size": 0.33278145695364236,
+    "color1": 0.3035,
+    "color": 0.2009933774834437,
+    "shape1": 0.231,
+    "shape": 0.15298013245033112,
+    "size2": 0.0,
+    "color2": 0.0,
+    "shape2": 0.0,
+    "relation": 0.0,
+    "letter_accuracy": 0.16171529953569136,
+    "teacher_forced_letter_accuracy": 0.8734287116379148
+  },
+  "denominators": {
+    "exact_match": 2000,
+    "object_count": 2000,
+    "size1": 2000,
+    "size": 3020,
+    "color1": 2000,
+    "color": 3020,
+    "shape1": 2000,
+    "shape": 3020,
+    "size2": 1020,
+    "color2": 1020,
+    "shape2": 1020,
+    "relation": 1020
+  },
+  "correct": {
+    "exact_match": 34,
+    "object_count": 980,
+    "size1": 1005,
+    "size": 1005,
+    "color1": 607,
+    "color": 607,
+    "shape1": 462,
+    "shape": 462,
+    "size2": 0,
+    "color2": 0,
+    "shape2": 0,
+    "relation": 0
+  },
+  "letter_denominator": 52982,
+  "teacher_forced_letter_denominator": 52982,
+  "split": "test",
+  "seed": 42,
+  "n_seeds": 1,
+  "config": {
+    "seed": 42,
+    "data_dir": "data",
+    "output_dir": "experiments/E1_blind",
+    "blind": true,
+    "batch_size": 64,
+    "epochs": 10,
+    "learning_rate": 0.001,
+    "weight_decay": 0.01,
+    "threads": 4,
+    "model": {
+      "d_model": 128,
+      "n_heads": 4,
+      "n_layers": 2
+    }
+  },
+  "checkpoint": "experiments/E1_blind/checkpoints/best.pt",
+  "checkpoint_epoch": 10,
+  "hardware": {
+    "cpu": "Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz",
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "device": "cuda",
+    "torch": "2.8.0+cu126",
+    "python": "3.12.14",
+    "os": "Windows-11-10.0.26200-SP0",
+    "threads": 4,
+    "cuda": "12.6"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "by_object_count": {
+    "1": {
+      "count": 980,
+      "exact_match": 0.9948979591836735
+    },
+    "2": {
+      "count": 1020,
+      "exact_match": 0.3784313725490196
+    }
+  },
+  "strict_errors": 639,
+  "errors_equivalent_after_reversing_objects": 381,
+  "other_errors": 258,
+  "reversed_examples": [
+    {
+      "reference": "smallredsquarebelowsmallgreencross",
+      "prediction": "smallgreencrossabovesmallredsquare"
+    },
+    {
+      "reference": "largeyellowsquarebelowlargeredsquare",
+      "prediction": "largeredsquareabovelargeyellowsquare"
+    },
+    {
+      "reference": "largebluecirclebelowsmallgreencircle",
+      "prediction": "smallgreencircleabovelargebluecircle"
+    },
+    {
+      "reference": "smallredtriangleleftoflargeredcircle",
+      "prediction": "largeredcirclerightofsmallredtriangle"
+    },
+    {
+      "reference": "smallgreencircleleftoflargeredcircle",
+      "prediction": "largeredcirclerightofsmallgreencircle"
+    }
+  ],
+  "other_examples": [
+    {
+      "reference": "smallredcrossleftoflargeredtriangle",
+      "prediction": "largeredtrianglerightofsmallredcircle"
+    },
+    {
+      "reference": "smallredsquareabovesmallredcross",
+      "prediction": "smallredsquarebelowsmallredsquare"
+    },
+    {
+      "reference": "smallredsquareleftoflargeredcross",
+      "prediction": "largeredcrossleftofsmallredsquare"
+    },
+    {
+      "reference": "largeyellowcirclebelowlargeyellowsquare",
+      "prediction": "largeyellowsquareleftoflargeyellowcircle"
+    },
+    {
+      "reference": "largegreensquareleftoflargeredcross",
+      "prediction": "largegreensquarebelowlargeredcross"
+    }
+  ],
+  "shape_confusions": {
+    "cross -> circle": 100,
+    "circle -> square": 94,
+    "circle -> cross": 83,
+    "triangle -> circle": 69,
+    "square -> circle": 69,
+    "circle -> triangle": 65,
+    "triangle -> cross": 65,
+    "cross -> triangle": 52,
+    "cross -> square": 48,
+    "square -> triangle": 48,
+    "triangle -> square": 48,
+    "square -> cross": 44,
+    "circle -> None": 3,
+    "triangle -> None": 2,
+    "square -> None": 1
+  }
+}

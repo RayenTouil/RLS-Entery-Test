@@ -1,0 +1,102 @@
+{
+  "config": {
+    "seed": 42,
+    "threads": 4,
+    "batch_sizes": [
+      1,
+      16,
+      64,
+      256
+    ],
+    "warmup": 5,
+    "steps": 10,
+    "repeats": 5,
+    "letters": 45,
+    "model": {
+      "d_model": 128,
+      "n_heads": 4,
+      "n_layers": 2
+    }
+  },
+  "summary": [
+    {
+      "device": "cpu",
+      "batch_size": 1,
+      "mean_images_per_second": 61.88398377358084,
+      "std_images_per_second": 7.6205664598179625,
+      "n_repeats": 5
+    },
+    {
+      "device": "cpu",
+      "batch_size": 16,
+      "mean_images_per_second": 422.39758605145886,
+      "std_images_per_second": 30.506453237275128,
+      "n_repeats": 5
+    },
+    {
+      "device": "cpu",
+      "batch_size": 64,
+      "mean_images_per_second": 507.67793605027043,
+      "std_images_per_second": 24.395086546287047,
+      "n_repeats": 5
+    },
+    {
+      "device": "cpu",
+      "batch_size": 256,
+      "mean_images_per_second": 495.06901381072436,
+      "std_images_per_second": 40.45197207168791,
+      "n_repeats": 5
+    },
+    {
+      "device": "cuda",
+      "batch_size": 1,
+      "mean_images_per_second": 98.47414218971241,
+      "std_images_per_second": 5.517953790583652,
+      "n_repeats": 5
+    },
+    {
+      "device": "cuda",
+      "batch_size": 16,
+      "mean_images_per_second": 1434.3180493555208,
+      "std_images_per_second": 116.73374358079612,
+      "n_repeats": 5
+    },
+    {
+      "device": "cuda",
+      "batch_size": 64,
+      "mean_images_per_second": 4414.420035786479,
+      "std_images_per_second": 9.093710089223304,
+      "n_repeats": 5
+    },
+    {
+      "device": "cuda",
+      "batch_size": 256,
+      "mean_images_per_second": 4455.74913291974,
+      "std_images_per_second": 7.355512538455216,
+      "n_repeats": 5
+    }
+  ],
+  "hardware": {
+    "cpu": {
+      "cpu": "Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "device": "cpu",
+      "torch": "2.8.0+cu126",
+      "python": "3.12.14",
+      "os": "Windows-11-10.0.26200-SP0",
+      "threads": 4,
+      "cuda": "12.6"
+    },
+    "cuda": {
+      "cpu": "Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "device": "cuda",
+      "torch": "2.8.0+cu126",
+      "python": "3.12.14",
+      "os": "Windows-11-10.0.26200-SP0",
+      "threads": 4,
+      "cuda": "12.6"
+    }
+  },
+  "scope": "Synthetic resident tensors; forward, loss, backward, gradient clipping and AdamW. No data loading or transfers."
+}

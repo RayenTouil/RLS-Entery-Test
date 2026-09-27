@@ -1,0 +1,8002 @@
+[
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarebelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossleftoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareabovesmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclebelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglerightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleleftofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowlargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarerightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossrightofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleleftofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleleftoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleleftoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovesmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareabovelargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarebelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclerightofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglerightoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowlargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareleftofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossbelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclerightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleleftoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossrightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovesmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclerightoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclebelowlargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglebelowlargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossbelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleleftoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleabovelargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclebelowlargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowlargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossbelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossrightofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossrightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossrightoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarebelowsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglerightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossrightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossrightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglebelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleabovesmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarerightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglerightoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowlargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovesmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossrightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarerightofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleleftoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclerightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglebelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleabovelargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleabovesmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleabovelargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglebelowlargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglerightofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossleftofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglerightofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossrightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleleftoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowlargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglerightoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleleftofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossrightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovelargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleleftoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowlargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleabovelargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovesmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareleftoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossrightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossbelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglerightofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleleftofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareleftoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglebelowlargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovesmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossabovelargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglerightofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclerightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclerightofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclerightofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareleftofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclerightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareabovelargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarerightofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclerightoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglebelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclerightofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovesmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossrightoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarerightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovelargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclerightoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareleftofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclerightofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareabovelargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglerightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarerightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowlargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleabovelargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleabovesmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossrightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglebelowsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclerightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclebelowlargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowlargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovelargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglerightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarebelowlargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowlargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclerightofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareabovelargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglebelowlargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleabovesmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossabovesmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleleftofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossrightoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglebelowsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossabovesmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglerightoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglerightofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclerightofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossabovelargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareleftofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossleftoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareabovelargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarerightofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarerightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossrightoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleleftoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareabovelargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowlargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarerightoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglebelowlargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareleftoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossrightofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovesmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarerightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglerightofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleleftofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclerightofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossleftofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareleftoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglerightoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarerightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleabovesmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglebelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareleftoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclerightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareabovelargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareabovelargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleabovelargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossrightoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclerightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossbelowlargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclebelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossleftoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossleftoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarerightoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarebelowlargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareabovesmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglerightoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareabovesmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareleftoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossbelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareabovesmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclebelowlargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovelargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowlargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleabovelargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossleftoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovelargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossabovelargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovelargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleleftofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossbelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareleftoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclerightoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarebelowsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossleftofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossbelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareabovesmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleleftoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareabovesmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarebelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareabovelargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleleftoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclerightoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossleftoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclebelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossbelowlargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossabovelargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleleftoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovesmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossbelowlargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclerightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglebelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareleftofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarerightofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovesmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovelargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarerightofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglebelowlargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowlargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarerightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarerightofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowlargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowlargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovesmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossrightoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarerightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossleftofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarebelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovesmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossabovesmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareleftofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclebelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovesmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossabovelargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowlargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovelargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareabovesmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclebelowsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleleftoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovelargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleabovesmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossleftoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossabovelargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarebelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleabovelargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowlargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowlargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossabovesmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleleftofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclerightofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglerightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovelargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarerightoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarerightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclebelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarerightofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleleftofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclerightofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclerightofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowlargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleabovesmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossleftoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossleftofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleleftoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovesmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareabovelargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclerightoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglerightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowlargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovelargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleleftofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclerightoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowlargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarerightoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowlargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleleftofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglerightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovesmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossbelowsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclebelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarerightoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarerightofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarerightoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovesmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossabovesmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleabovelargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareabovelargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareleftofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglerightoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglebelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowlargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleleftofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglerightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarerightoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossleftoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleleftoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossrightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglerightoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossrightoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossbelowlargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclebelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossleftoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowlargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleabovelargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarerightoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossbelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglerightofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossbelowlargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowlargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglebelowsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleleftofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglerightoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossrightofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossbelowlargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleleftofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovelargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovesmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowlargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclerightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowlargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossrightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossleftoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclerightoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleleftoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovesmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleleftoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleabovesmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossrightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossrightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowlargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareabovelargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowlargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossabovesmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglerightofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleleftoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglerightofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglebelowlargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossbelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossleftofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleleftoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclebelowsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclebelowlargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossleftoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossbelowlargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleleftofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglebelowsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglebelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclerightofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleleftoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossrightoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleleftofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovesmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossleftoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovelargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossrightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleleftoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglerightofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovelargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleleftofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglebelowlargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleleftoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclerightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglerightoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleabovelargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglerightofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossrightofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovelargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossrightoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleabovelargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovelargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareleftofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowlargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareabovesmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossrightofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglebelowsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclerightofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossleftofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclerightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovelargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleleftofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglebelowlargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarebelowlargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglebelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossrightofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovesmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossrightoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglerightoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarerightoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleleftofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowlargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowlargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclerightofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclerightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovelargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarebelowsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglebelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglerightofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovesmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossbelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovesmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarerightofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovelargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclerightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareabovelargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleleftofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarerightofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircleleftoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclebelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossabovesmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleabovelargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowlargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovelargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclerightoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovesmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossrightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleleftoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovelargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossrightofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclerightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowlargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossleftoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossbelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleabovelargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossrightofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossleftofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareleftoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglerightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossabovelargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossbelowlargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleleftoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovesmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovesmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglebelowsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleleftoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossrightofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareleftofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglerightofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleleftofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarerightoflargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossbelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossrightofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovelargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglerightofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleabovelargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossleftoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovelargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowlargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowlargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircleabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossbelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossbelowsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossbelowlargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquarebelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossrightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowlargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcrossbelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclerightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglebelowlargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossleftofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangleabovelargeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossleftofsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangleabovesmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossrightoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovelargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcrossrightofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossrightofsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarerightofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossrightofsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovelargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclerightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovelargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossbelowlargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleabovelargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleleftofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovelargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareleftoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovesmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarerightoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossrightoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangleleftoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencrossleftoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarerightofsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclerightoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleleftofsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarerightoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovelargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglebelowsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareabovelargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossabovesmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleabovesmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovelargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtrianglebelowlargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangleabovelargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircleabovesmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossbelowsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowsmallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquarebelowlargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleleftoflargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleleftoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencirclerightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftofsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossleftofsmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleleftoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecrossabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquareabovesmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarerightoflargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangleabovesmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquareleftofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquareleftoflargebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarerightofsmallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarerightoflargebluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclebelowlargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovesmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareleftofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowlargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovesmallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencrossabovesmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquarerightofsmallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclebelowsmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquarebelowsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircleleftofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossleftoflargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleabovesmallbluecross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtrianglebelowsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircleabovelargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowcirclerightoflargeyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredsquarebelowsmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowtrianglebelowlargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtriangleleftofsmallyellowcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcirclerightoflargeredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowlargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglerightofsmallgreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecirclebelowsmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcirclebelowlargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareleftoflargeredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquarerightofsmallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowsquareabovelargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcircleleftoflargegreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglebelowsmallredcross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredtrianglerightoflargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largegreensquareabovelargegreencross",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareabovelargebluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencirclebelowlargeredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluetrianglerightoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredcircleabovesmallyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluetrianglerightoflargeyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallbluecirclebelowsmallredcircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeyellowcirclerightofsmallyellowsquare",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largebluecrossleftoflargegreencircle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallredcircleabovesmallbluetriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "smallgreensquareabovelargeyellowtriangle",
+    "prediction": "smallredcross"
+  },
+  {
+    "reference": "largeredtriangle",
+    "prediction": "smallredcross"
+  }
+]

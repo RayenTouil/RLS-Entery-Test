@@ -86,11 +86,20 @@ def main():
     config = dict(config, blind=config["blind"] or args.zero_images)
     model = TinyVLM(**config["model"]).to(args.device)
     model.load_state_dict(saved["model"])
+    model.eval()
+    teacher_correct, teacher_total = 0, 0
     predictions, references = [], []
-    for images, _, targets in make_loader(config, args.split):
+    for images, inputs, targets in make_loader(config, args.split):
+        with torch.inference_mode():
+            predicted_ids = model(images.to(args.device), inputs.to(args.device)).argmax(-1).cpu()
+        valid_letters = (targets >= 0) & (targets < 26)
+        teacher_correct += ((predicted_ids == targets) & valid_letters).sum().item()
+        teacher_total += valid_letters.sum().item()
         predictions.extend(generate(model, images.to(args.device)))
         references.extend(Tokenizer().decode(row[row != -100]) for row in targets)
     result = metrics(predictions, references)
+    result["metrics"]["teacher_forced_letter_accuracy"] = teacher_correct / teacher_total
+    result["teacher_forced_letter_denominator"] = teacher_total
     result.update({"split": args.split, "seed": config["seed"], "n_seeds": 1, "config": config,
                    "checkpoint": str(args.checkpoint), "checkpoint_epoch": saved["completed"],
                    "hardware": hardware(args.device)})

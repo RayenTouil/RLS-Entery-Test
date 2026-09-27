@@ -5,3 +5,4 @@ tqdm==4.66.5
 PyYAML==6.0.2
 matplotlib==3.9.2
 pytest==8.3.3
+reportlab==4.4.9

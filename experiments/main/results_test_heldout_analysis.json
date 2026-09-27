@@ -1,0 +1,56 @@
+{
+  "by_object_count": {
+    "1": {
+      "count": 1050,
+      "exact_match": 0.0
+    },
+    "2": {
+      "count": 950,
+      "exact_match": 0.0
+    }
+  },
+  "strict_errors": 2000,
+  "errors_equivalent_after_reversing_objects": 0,
+  "other_errors": 2000,
+  "reversed_examples": [],
+  "other_examples": [
+    {
+      "reference": "largeyellowcross",
+      "prediction": "largeyellowcircle"
+    },
+    {
+      "reference": "smallyellowcrossleftofsmallyellowsquare",
+      "prediction": "smallyellowsquarerightofsmallyellowtriangle"
+    },
+    {
+      "reference": "largebluetrianglerightofsmallgreentriangle",
+      "prediction": "largebluetrianglerightofsmallgreencross"
+    },
+    {
+      "reference": "smallbluesquare",
+      "prediction": "smallbluecircle"
+    },
+    {
+      "reference": "smallbluetriangleabovesmallgreentriangle",
+      "prediction": "smallbluetriangleabovesmallgreencross"
+    }
+  ],
+  "shape_confusions": {
+    "square -> circle": 584,
+    "triangle -> cross": 578,
+    "cross -> circle": 351,
+    "cross -> triangle": 273,
+    "square -> cross": 116,
+    "triangle -> circle": 109,
+    "cross -> square": 89,
+    "circle -> cross": 59,
+    "square -> triangle": 33,
+    "triangle -> square": 30,
+    "circle -> triangle": 15,
+    "circle -> square": 12,
+    "triangle -> None": 6,
+    "circle -> None": 3,
+    "square -> None": 3,
+    "cross -> None": 1
+  }
+}

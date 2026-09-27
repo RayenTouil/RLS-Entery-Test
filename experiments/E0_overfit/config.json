@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "data_dir": "data",
+  "output_dir": "experiments/E0_overfit",
+  "blind": false,
+  "batch_size": 16,
+  "epochs": 1,
+  "overfit_steps": 600,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0,
+  "threads": 4,
+  "model": {
+    "d_model": 128,
+    "n_heads": 4,
+    "n_layers": 2
+  }
+}

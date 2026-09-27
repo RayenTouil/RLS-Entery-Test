@@ -102,7 +102,7 @@ Le heldout échoue souvent sur la forme alors que taille et couleur restent reco
 - configs/ : réglages versionnés ; aucune modification du code requise pour changer un hyperparamètre.
 - tests/ : tests officiels conservés et tests d'alignement, padding, parser et génération ; **108 tests passés**.
 - experiments/E0_overfit/ : mémorisation, courbe et prédictions du lot.
-- experiments/main/ et experiments/E1_blind/ : loss.csv, loss.png, config.json, hardware.json, résultats et toutes les prédictions.
+- experiments/main/ et experiments/E1_blind/ : losses.csv, loss.png, config.json, hardware.json, résultats et toutes les prédictions.
 - benchmarks/S1_throughput/ : script, temps bruts, graphique et matériel.
 - report/ : PDF et script qui le reconstruit à partir des mesures.
 - docs/ : tutoriel en 1 h + 2 h + 2 h et exercices oraux.

@@ -240,3 +240,9 @@ Une séparation par responsabilité permet de changer le CNN sans réécrire le 
 8. Expliquer pourquoi train_loss basse et test mauvais peuvent coexister.
 
 Ne pas publier les modifications volontairement incorrectes. Chacun de ces exercices doit produire une explication personnelle.
+
+## Nos mesures a discuter
+
+Le modele principal atteint 68,05 % des mots exacts sur test, contre 1,70 % pour E1. Le modele aveugle atteint pourtant 87,34 % des lettres si le prefixe vrai est fourni : distinguer cette aide de la generation libre. Le heldout tombe a 0 % : reconnaitre des combinaisons connues ne garantit pas de les recombiner.
+
+Sur les 639 erreurs strictes du modele principal, 381 correspondent aux memes objets dans l ordre inverse avec relation inverse. Cela nuance les erreurs sans changer le score officiel. Les relations et les scenes a deux objets restent difficiles.

@@ -89,7 +89,7 @@ def main():
                      yerr=[r["std_images_per_second"] for r in values], marker="o", capsize=4, label=device)
     plt.xscale("log", base=2)
     plt.xlabel("Batch size")
-    plt.ylabel("Training images / second (mean +/- sample std, 5 repeats)")
+    plt.ylabel("Training images / second")
     plt.legend()
     plt.grid(alpha=0.2)
     plt.tight_layout()

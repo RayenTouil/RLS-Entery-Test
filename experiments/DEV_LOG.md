@@ -13,3 +13,6 @@
 - Données générées au format officiel : train 20 000, val 2 000, test 2 000, test_heldout 2 000 ; seed 42.
 - Un chevauchement bref a eu lieu entre la fin de l'entraînement principal et le début de E1. Les durées par epoch du CSV sont des temps muraux observés, pas une comparaison de performances. S1 sera exécuté séparément des entraînements.
 - Le générateur peut décrire deux objets dans les deux ordres, avec relation inverse. Limite relevée par lecture du code, sans modifier ni les étiquettes ni la métrique officielle.
+
+- Verification depuis un clone local propre : 108 tests passent et le rapport est reconstructible depuis les preuves versionnees.
+- Ajout de .gitattributes pour conserver les PDF/PNG comme fichiers binaires et eviter une conversion de fins de ligne sous Windows.

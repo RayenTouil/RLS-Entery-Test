@@ -1,0 +1,11 @@
+seed: 42
+threads: 4
+batch_sizes: [1, 16, 64, 256]
+warmup: 5
+steps: 10
+repeats: 5
+letters: 45
+model:
+  d_model: 128
+  n_heads: 4
+  n_layers: 2

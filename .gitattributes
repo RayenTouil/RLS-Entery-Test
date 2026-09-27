@@ -6,3 +6,4 @@
 *.json text eol=lf
 *.pdf binary
 *.png binary
+generate_data.py -text

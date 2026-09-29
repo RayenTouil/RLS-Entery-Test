@@ -65,7 +65,6 @@ Data and checkpoints stay local. A fresh clone needs to generate the data and tr
 | experiments/ | Results, predictions and loss curves |
 | benchmarks/ | Raw timings and CPU/GPU comparison |
 | report/ | [Four-page report](report/report.pdf) and its build script |
-| docs/ | [Learning notes](docs/learning_notes.md) and [interview questions](docs/interview_questions.md) |
 
 **108 tests pass.** The model works on familiar scenes, but the heldout result shows a clear limit. One seed is not enough to make broad claims.
 

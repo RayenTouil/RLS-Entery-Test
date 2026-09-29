@@ -1,9 +1,13 @@
-# Utilisation de l'IA
+# How I used AI
 
-OpenAI Codex a lu le brief, recupere le template officiel, propose une architecture compacte, ecrit le code du modele et des scripts, prepare les tests supplementaires, execute les commandes disponibles, puis prepare la documentation et le tutoriel en francais.
+I started this challenge knowing Python, but I am a beginner in PyTorch and Transformers. I expected a basic machine learning project. Then tensors, CNNs and Q, K, V joined the party! Deep learning is part of machine learning; I had underestimated how many new ideas this project would involve.
 
-Le generateur RLS et les tests officiels proviennent du depot fourni. Leur origine est conservee dans SOURCE.md. Le code ajoute par Codex ne contient pas de commentaires, a la demande du candidat ; les explications sont dans docs/.
+I used ChatGPT/Codex to explain concepts with small examples: image tensors, tokens, embeddings, CNNs, attention, causal masks, teacher forcing, gradients, loss, and CPU/GPU timing. I am still learning to connect these ideas to the code.
 
-Les resultats presentes doivent provenir des executions enregistrees. Les verifications automatiques ne prouvent pas que le candidat comprend le code. La relecture personnelle et les exercices oraux restent a faire avec le candidat ; aucune comprehension personnelle n'est revendiquee a sa place.
+AI also helped read the brief, choose a small architecture, write the model and scripts, add tests, run local experiments, and prepare the plots and report. This included substantial code generation, as well as debugging and review.
 
-Avant depot final, le candidat doit mettre a jour ce fichier avec les lignes qu'il a relues, les exercices qu'il a executes et les changements qu'il a faits lui-meme. Le projet n'est pas declare ecrit sans assistance.
+The checks include the official attention tests, masking and padding tests, one-batch overfitting, the blind baseline and the timing benchmark. The official generator was kept unchanged. The reported numbers come from saved runs.
+
+The goal was to build and understand a working baseline. There was no hyperparameter search or later accuracy-tuning stage. AI did help set up the model and training, so I cannot claim that it only checked my code.
+
+The result is 68.05% exact match on test and 0% on unseen color-shape pairs. That gives me a useful next question: why can the model recognize familiar scenes but struggle with new combinations? I want to explore that, and get better at explaining and changing the code myself.

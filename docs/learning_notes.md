@@ -6,22 +6,22 @@ Tu connais Python. L'objectif est de comprendre et modifier cette petite implém
 
 | Séance | Minutes | Travail actif | Preuve de compréhension |
 |---|---:|---|---|
-| Aujourd'hui, 27 septembre | 0-10 | Problème, données, train/val/test | Décrire une scène et sa cible |
-| Aujourd'hui | 10-25 | Tenseurs, tokenizer, padding | Encoder red à la main |
-| Aujourd'hui | 25-40 | CNN, grille, adapter | Donner les dimensions à chaque étape |
-| Aujourd'hui | 40-55 | Entrées et cibles décalées, génération | Dire qui prédit la première lettre |
-| Aujourd'hui | 55-60 | Quiz sans regarder | Expliquer le projet en 60 secondes |
-| Demain, 28 septembre | 0-20 | Q, K, V, produit matriciel, softmax | Calculer une attention miniature |
-| Demain | 20-40 | Têtes, masque, positions, résidus, LayerNorm | Dessiner le masque |
-| Demain | 40-60 | Loss, autograd, AdamW, validation | Expliquer les lignes de train.py |
-| Demain | 60-80 | Tests et E0 | Expliquer pourquoi mémoriser un lot est utile |
-| Demain | 80-105 | E1 et métriques | Distinguer orthographe et vision |
-| Demain | 105-120 | Modifier et tester le nombre de têtes | Prédire ce qui casse si 128 / heads n'est pas entier |
-| Après-demain, 29 septembre | 0-25 | CPU/GPU, kernels, synchronisation | Expliquer le benchmark |
-| Après-demain | 25-45 | Courbes et erreurs réellement observées | Lire nos résultats sans les exagérer |
-| Après-demain | 45-65 | Arborescence, commandes, Git | Reproduire un forward et les tests |
-| Après-demain | 65-85 | Rapport, limites, usage de l'IA | Présentation de 3 minutes |
-| Après-demain | 85-120 | Simulation du jury et modification en direct | Réponses personnelles, sans récitation |
+| Séance 1 | 0-10 | Problème, données, train/val/test | Décrire une scène et sa cible |
+| Séance 1 | 10-25 | Tenseurs, tokenizer, padding | Encoder red à la main |
+| Séance 1 | 25-40 | CNN, grille, adapter | Donner les dimensions à chaque étape |
+| Séance 1 | 40-55 | Entrées et cibles décalées, génération | Dire qui prédit la première lettre |
+| Séance 1 | 55-60 | Quiz sans regarder | Expliquer le projet en 60 secondes |
+| Séance 2 | 0-20 | Q, K, V, produit matriciel, softmax | Calculer une attention miniature |
+| Séance 2 | 20-40 | Têtes, masque, positions, résidus, LayerNorm | Dessiner le masque |
+| Séance 2 | 40-60 | Loss, autograd, AdamW, validation | Expliquer les lignes de train.py |
+| Séance 2 | 60-80 | Tests et E0 | Expliquer pourquoi mémoriser un lot est utile |
+| Séance 2 | 80-105 | E1 et métriques | Distinguer orthographe et vision |
+| Séance 2 | 105-120 | Modifier et tester le nombre de têtes | Prédire ce qui casse si 128 / heads n'est pas entier |
+| Séance 3 | 0-25 | CPU/GPU, kernels, synchronisation | Expliquer le benchmark |
+| Séance 3 | 25-45 | Courbes et erreurs réellement observées | Lire nos résultats sans les exagérer |
+| Séance 3 | 45-65 | Arborescence, commandes, Git | Reproduire un forward et les tests |
+| Séance 3 | 65-85 | Rapport, limites, usage de l'IA | Présentation de 3 minutes |
+| Séance 3 | 85-120 | Simulation du jury et modification en direct | Réponses personnelles, sans récitation |
 
 ## Séance 1 : l'image devient des nombres, puis un mot
 

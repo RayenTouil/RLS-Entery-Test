@@ -1,3 +1,6 @@
+# FR : Tests ajoutés pour l’alignement des cibles, le padding et la génération.
+# EN: Extra tests for target alignment, padding and generation.
+
 import torch
 from torch import nn
 
@@ -7,6 +10,8 @@ from src.model.vlm import TinyVLM
 from src.tokenizer import Tokenizer
 
 
+# FR : Vérifie les ids, eos et les positions ignorées.
+# EN: Checks ids, eos and ignored positions.
 def test_tokenizer_and_padding():
     tokenizer = Tokenizer()
     inputs, targets = tokenizer.batch([tokenizer.encode("red"), tokenizer.encode("blue")])
@@ -15,6 +20,8 @@ def test_tokenizer_and_padding():
     assert tokenizer.decode(tokenizer.encode("largeredcircle")) == "largeredcircle"
 
 
+# FR : Modifier les logits du padding ne doit pas modifier la loss.
+# EN: Changing padding logits must not change the loss.
 def test_padding_does_not_change_loss():
     logits = torch.randn(2, 5, 27)
     targets = torch.tensor([[1, 2, 26, -100, -100], [3, 4, 5, 6, 26]])
@@ -25,6 +32,8 @@ def test_padding_does_not_change_loss():
     torch.testing.assert_close(before, after)
 
 
+# FR : Changer les lettres fournies ne doit pas révéler la première cible au modèle.
+# EN: Changing input letters must not reveal the first target to the model.
 def test_first_letter_has_no_access_to_ground_truth():
     model = TinyVLM().eval()
     images = torch.rand(2, 3, 64, 64)
@@ -37,6 +46,8 @@ def test_first_letter_has_no_access_to_ground_truth():
     assert first.shape == (2, 6, 27)
 
 
+# FR : Une faute de forme ne doit pas effacer la taille et la couleur reconnues.
+# EN: A misspelled shape must not erase recognized size and color.
 def test_misspelling_preserves_other_attributes():
     parsed = parse_word("largeredcirleleftofsmallbluesquare")
     assert parsed["size1"] == "large"
@@ -48,6 +59,8 @@ def test_misspelling_preserves_other_attributes():
     assert parse_word("nonsense")["color1"] is None
 
 
+# FR : Les objets et relations manquants doivent compter comme faux.
+# EN: Missing objects and relations must count as incorrect.
 def test_attribute_denominators_and_no_spelling_correction():
     scores = metrics(["largeredcirle", "smallbluecross"],
                      ["largeredcircle", "smallbluecrossleftoflargeredsquare"])
@@ -58,6 +71,8 @@ def test_attribute_denominators_and_no_spelling_correction():
     assert scores["metrics"]["shape2"] == 0
 
 
+# FR : Force des logits simples pour tester les deux conditions d’arrêt.
+# EN: Forces simple logits to test both stopping conditions.
 def test_generation_stops_at_eos_and_at_length_limit():
     model = TinyVLM().eval()
     with torch.no_grad():

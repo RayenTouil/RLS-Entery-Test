@@ -1,3 +1,6 @@
+# FR : E0 : mémorise un seul lot pour vérifier le pipeline.
+# EN: E0: memorizes one batch to check the pipeline.
+
 seed: 42
 data_dir: data
 output_dir: experiments/E0_overfit

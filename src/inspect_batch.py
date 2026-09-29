@@ -1,3 +1,6 @@
+# FR : Affiche les dimensions du pipeline sur un vrai lot.
+# EN: Prints pipeline shapes for a real batch.
+
 import torch
 
 from src.data import make_loader
@@ -11,6 +14,8 @@ def main():
     setup(config["seed"], config["threads"])
     images, inputs, targets = next(iter(make_loader(config, "train")))
     model = TinyVLM(**config["model"]).eval()
+    # FR : Inspecte un forward sans calculer de gradients ni entraîner le modèle.
+    # EN: Inspects a forward pass without gradients or training.
     with torch.no_grad():
         features = model.encoder(images)
         visual = model.visual_tokens(images)
@@ -21,6 +26,8 @@ def main():
     print("input letters", tuple(inputs.shape))
     print("logits", tuple(logits.shape))
     print("targets", tuple(targets.shape))
+    # FR : Ignore le padding avant de retrouver le mot du premier exemple.
+    # EN: Removes padding before decoding the first sample word.
     print("decoded sample", Tokenizer().decode(targets[0][targets[0] != -100]))
     print("parameters", sum(p.numel() for p in model.parameters()))
 

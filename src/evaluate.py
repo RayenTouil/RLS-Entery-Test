@@ -1,3 +1,6 @@
+# FR : Mesure les mots exacts, les attributs et les lettres sur un split.
+# EN: Measures exact words, attributes and letters on one split.
+
 import argparse
 import re
 from collections import defaultdict
@@ -18,6 +21,8 @@ SHAPES = ("circle", "square", "triangle", "cross")
 RELATIONS = ("leftof", "rightof", "above", "below")
 
 
+# FR : Lit taille, couleur puis forme ; un morceau inconnu reste None.
+# EN: Reads size, color, then shape; an unknown part stays None.
 def parse_object(text):
     result = {}
     for field, choices in (("size", SIZES), ("color", COLORS)):
@@ -29,10 +34,14 @@ def parse_object(text):
     return result
 
 
+# FR : Repère un éventuel deuxième objet grâce à son mot de taille.
+# EN: Finds a possible second object through its size word.
 def parse_word(word):
     starts = [match.start() for match in re.finditer("small|large", word)]
     second = next((position for position in starts if position > 0), None)
     first_text = word if second is None else word[:second]
+    # FR : Cherche la relation juste avant le deuxième objet.
+    # EN: Looks for the relation just before the second object.
     relation = next((value for value in RELATIONS if first_text.endswith(value)), None)
     if relation is not None:
         first_text = first_text[:-len(relation)]
@@ -45,6 +54,8 @@ def parse_word(word):
     return result
 
 
+# FR : Garde le score exact même si une autre formulation décrit la même scène.
+# EN: Keeps strict exact-match even when another wording describes the same scene.
 def metrics(predictions, references):
     correct, total = defaultdict(int), defaultdict(int)
     positional_letters = 0
@@ -56,14 +67,20 @@ def metrics(predictions, references):
         correct["object_count"] += predicted["object_count"] == expected["object_count"]
         total["object_count"] += 1
         for field in ("size1", "color1", "shape1", "size2", "color2", "shape2", "relation"):
+            # FR : Évalue uniquement les attributs présents dans la référence.
+            # EN: Scores only attributes that are present in the reference.
             if expected[field] is None:
                 continue
             correct[field] += predicted[field] == expected[field]
             total[field] += 1
             if field != "relation":
+                # FR : Réunit les deux positions dans les scores taille, couleur et forme.
+                # EN: Combines both object positions for size, color and shape scores.
                 group = field[:-1]
                 correct[group] += predicted[field] == expected[field]
                 total[group] += 1
+        # FR : Pénalise aussi les lettres manquantes ou en trop via la longueur maximale.
+        # EN: Also penalizes missing or extra letters through the maximum length.
         positional_letters += sum(a == b for a, b in zip(prediction, reference))
         letter_total += max(len(prediction), len(reference))
     scores = {name: correct[name] / count for name, count in total.items()}
@@ -80,6 +97,8 @@ def main():
     parser.add_argument("--zero-images", action="store_true")
     parser.add_argument("--output")
     args = parser.parse_args()
+    # FR : Recharge l’architecture et les poids du checkpoint choisi sur validation.
+    # EN: Loads the architecture and weights selected using validation.
     saved = torch.load(args.checkpoint, map_location="cpu", weights_only=True)
     config = saved["config"]
     setup(config["seed"], config["threads"])
@@ -90,11 +109,17 @@ def main():
     teacher_correct, teacher_total = 0, 0
     predictions, references = [], []
     for images, inputs, targets in make_loader(config, args.split):
+        # FR : Mesure séparée avec les bonnes lettres précédentes : teacher forcing.
+        # EN: Separate measurement with the correct previous letters: teacher forcing.
         with torch.inference_mode():
             predicted_ids = model(images.to(args.device), inputs.to(args.device)).argmax(-1).cpu()
+        # FR : Exclut le padding et eos de cette mesure des lettres.
+        # EN: Excludes padding and eos from this letter measurement.
         valid_letters = (targets >= 0) & (targets < 26)
         teacher_correct += ((predicted_ids == targets) & valid_letters).sum().item()
         teacher_total += valid_letters.sum().item()
+        # FR : La génération libre ne reçoit que les images, jamais les cibles.
+        # EN: Free generation receives only images, never the targets.
         predictions.extend(generate(model, images.to(args.device)))
         references.extend(Tokenizer().decode(row[row != -100]) for row in targets)
     result = metrics(predictions, references)
@@ -106,6 +131,8 @@ def main():
     suffix = "_zero_images" if args.zero_images else ""
     output = Path(args.output or f'{config["output_dir"]}/results_{args.split}{suffix}.json')
     write_json(output, result)
+    # FR : Sauvegarde chaque prédiction pour pouvoir examiner les erreurs.
+    # EN: Saves every prediction so errors can be inspected.
     write_json(output.with_name(output.stem + "_predictions.json"),
                [{"reference": ref, "prediction": pred} for ref, pred in zip(references, predictions)])
     print(result["metrics"])

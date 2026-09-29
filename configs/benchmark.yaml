@@ -1,3 +1,6 @@
+# FR : S1 : mesure la vitesse sur plusieurs tailles de lot.
+# EN: S1: measures speed across several batch sizes.
+
 seed: 42
 threads: 4
 batch_sizes: [1, 16, 64, 256]
